@@ -1,0 +1,8 @@
+server:
+  port: 6000
+
+storage:
+  minio:
+    url: http://36.138.170.195:10900
+    accessKey: "jinma"
+    secretKey: "minio123456"
